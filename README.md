@@ -1,3 +1,3 @@
 # DemoGit
-this is a demo git
+This is a demo Git.
 Author - kranthi G
